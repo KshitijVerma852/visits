@@ -1,0 +1,3 @@
+node_modules/
+/http-client.private.env.json
+GET-root.http
